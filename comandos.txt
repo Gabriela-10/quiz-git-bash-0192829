@@ -1,0 +1,1 @@
+touch, mkdir, cd, git config, git init, git log, git commit, echo

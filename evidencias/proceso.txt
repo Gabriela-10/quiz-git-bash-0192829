@@ -1,0 +1,1 @@
+se creo una carpeta en la cual se crearon unos repositorios los cuales contienen textos con informacion de un estudiante y comandos
