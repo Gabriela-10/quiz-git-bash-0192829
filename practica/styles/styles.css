@@ -4,12 +4,23 @@ body{
     align-items: center;
     min-height:100vh ;
 }
-.loading{
-    background-color: cadetblue;
-    max-width: |50%;
-    line-height: 1.4;
+    .loading{
     font-size: 1.2rem;
-    font-weight: bold;
-    text-align: center;
     
+
 }
+.loading_author{
+    font-size: 0.9rem;
+    font-weight: normal;
+   color:cadetblue (141,141, 193,1);
+}
+.loading_anim{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border: 5px solid rgb( blue);
+    border-radius: 50%;
+
+}
+
+
